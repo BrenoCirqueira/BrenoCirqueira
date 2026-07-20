@@ -5,7 +5,7 @@
 - 🤝 Aberto a colaborar em projetos inovadores e iniciativas open source
 - 🎯 Buscando evoluir continuamente como profissional e desenvolvedor
 - 💬 Pergunte-me sobre desenvolvimento de software, tecnologia e resolução de problemas
-- 📫 Contato: cirqueirabreno38@gmail.com | LinkedIn:(https://www.linkedin.com/in/breno-cirqueira-866a82348/)
+- 📫 Contato: cirqueirabreno38@gmail.com | LinkedIn: https://www.linkedin.com/in/breno-cirqueira-866a82348/
 - 🚀 Acredito que tecnologia gera valor quando resolve problemas reais
 - ⚡ Curiosidade: gosto de transformar desafios complexos em soluções simples
 
