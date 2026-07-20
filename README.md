@@ -11,12 +11,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Br-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Br-PowerApps" height="30" width="40" src="https://cdn.dribbble.com/userupload/37959629/file/original-785db4f465c75426b678425e13bf6c65.png?resize=752x&vertical=center">
-  <img align="center" alt="Br-PowerAutomate" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/3840px-Microsoft_Power_Automate.svg.png" />
   <img align="center" alt="Br-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Br-SQL" height="30" width="40" src="https://github.com/user-attachments/assets/8019dec7-37a1-47b9-b095-fce22ea30c3c" />
   <img align="center" alt="Br-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Br-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Br-PowerApps" height="30" width="40" src="https://cdn.dribbble.com/userupload/37959629/file/original-785db4f465c75426b678425e13bf6c65.png?resize=752x&vertical=center">
+  <img align="center" alt="Br-PowerAutomate" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/3840px-Microsoft_Power_Automate.svg.png" />
+  </div>
 
 </br>
 
