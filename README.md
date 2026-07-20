@@ -27,3 +27,7 @@
   <a href="https://www.linkedin.com/in/breno-cirqueira-866a82348/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+</br>
+
+<img width="1536" height="608" alt="Designer (1)" src="https://github.com/user-attachments/assets/95b201d8-12c6-433a-bd6d-aca0baa61460" />
+
